@@ -21,7 +21,6 @@
 		343A6DEE1D152E5A0081AA37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 344169461C67539300B93D28 /* Foundation.framework */; };
 		343A6DF01D152E5A0081AA37 /* Localize_Swift.h in Headers */ = {isa = PBXBuildFile; fileRef = 3433F2501C518B38003AE34D /* Localize_Swift.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		344169471C67539300B93D28 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 344169461C67539300B93D28 /* Foundation.framework */; };
-		345D5906251F83910088CBEC /* IBDesignable+Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 345D5905251F83910088CBEC /* IBDesignable+Localize.swift */; };
 		68973D661DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */; };
 		68973D671DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */; };
 		68973D681DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */; };
@@ -372,7 +371,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				68973D6B1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */,
-				345D5906251F83910088CBEC /* IBDesignable+Localize.swift in Sources */,
 				68973D661DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */,
 				3433F2531C518B38003AE34D /* Localize.swift in Sources */,
 				68A520041DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */,
