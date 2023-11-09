@@ -7,9 +7,9 @@
 //
 
 import XCTest
-@testable import Localize_Swift
+@testable import LocalizeSwift
 
-class Localize_SwiftTests: XCTestCase {
+class LocalizeSwiftTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -3,16 +3,16 @@
 import PackageDescription
 
 let package = Package(
-    name: "Localize_Swift",
+    name: "LocalizeSwift",
     products: [
         .library(
-            name: "Localize_Swift",
-            targets: ["Localize_Swift"]),
+            name: "LocalizeSwift",
+            targets: ["LocalizeSwift"]),
     ],
     dependencies: [],
     targets: [
         .target(
-            name: "Localize_Swift",
+            name: "LocalizeSwift",
             path: "Sources")
     ],
     swiftLanguageVersions: [.v5]

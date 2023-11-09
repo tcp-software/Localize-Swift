@@ -17,9 +17,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3433F23F1C518AF7003AE34D"
-               BuildableName = "Localize_SwiftTests.xctest"
-               BlueprintName = "Localize_SwiftTests"
-               ReferencedContainer = "container:Localize_Swift.xcodeproj">
+               BuildableName = "LocalizeSwiftTests.xctest"
+               BlueprintName = "LocalizeSwiftTests"
+               ReferencedContainer = "container:LocalizeSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>

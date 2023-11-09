@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "343A6DEA1D152E5A0081AA37"
                BuildableName = "Localize_Swift.framework"
-               BlueprintName = "Localize_Swift watchOS"
-               ReferencedContainer = "container:Localize_Swift.xcodeproj">
+               BlueprintName = "LocalizeSwift watchOS"
+               ReferencedContainer = "container:LocalizeSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,8 +45,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "343A6DEA1D152E5A0081AA37"
             BuildableName = "Localize_Swift.framework"
-            BlueprintName = "Localize_Swift watchOS"
-            ReferencedContainer = "container:Localize_Swift.xcodeproj">
+            BlueprintName = "LocalizeSwift watchOS"
+            ReferencedContainer = "container:LocalizeSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -61,8 +61,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "343A6DEA1D152E5A0081AA37"
             BuildableName = "Localize_Swift.framework"
-            BlueprintName = "Localize_Swift watchOS"
-            ReferencedContainer = "container:Localize_Swift.xcodeproj">
+            BlueprintName = "LocalizeSwift watchOS"
+            ReferencedContainer = "container:LocalizeSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

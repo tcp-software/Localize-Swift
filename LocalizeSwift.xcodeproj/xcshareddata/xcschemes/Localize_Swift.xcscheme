@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3433F2351C518AF7003AE34D"
-               BuildableName = "Localize_Swift.framework"
-               BlueprintName = "Localize_Swift"
-               ReferencedContainer = "container:Localize_Swift.xcodeproj">
+               BuildableName = "LocalizeSwift.framework"
+               BlueprintName = "LocalizeSwift"
+               ReferencedContainer = "container:LocalizeSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3433F2351C518AF7003AE34D"
-            BuildableName = "Localize_Swift.framework"
-            BlueprintName = "Localize_Swift"
-            ReferencedContainer = "container:Localize_Swift.xcodeproj">
+            BuildableName = "LocalizeSwift.framework"
+            BlueprintName = "LocalizeSwift"
+            ReferencedContainer = "container:LocalizeSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -42,9 +42,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3433F23F1C518AF7003AE34D"
-               BuildableName = "Localize_SwiftTests.xctest"
-               BlueprintName = "Localize_SwiftTests"
-               ReferencedContainer = "container:Localize_Swift.xcodeproj">
+               BuildableName = "LocalizeSwiftTests.xctest"
+               BlueprintName = "LocalizeSwiftTests"
+               ReferencedContainer = "container:LocalizeSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -63,9 +63,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3433F2351C518AF7003AE34D"
-            BuildableName = "Localize_Swift.framework"
-            BlueprintName = "Localize_Swift"
-            ReferencedContainer = "container:Localize_Swift.xcodeproj">
+            BuildableName = "LocalizeSwift.framework"
+            BlueprintName = "LocalizeSwift"
+            ReferencedContainer = "container:LocalizeSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -79,9 +79,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3433F2351C518AF7003AE34D"
-            BuildableName = "Localize_Swift.framework"
-            BlueprintName = "Localize_Swift"
-            ReferencedContainer = "container:Localize_Swift.xcodeproj">
+            BuildableName = "LocalizeSwift.framework"
+            BlueprintName = "LocalizeSwift"
+            ReferencedContainer = "container:LocalizeSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
