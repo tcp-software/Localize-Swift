@@ -1,6 +1,6 @@
 //
-//  Localize_Swift.h
-//  Localize_Swift
+//  LocalizeSwift.h
+//  LocalizeSwift
 //
 //  Created by Roy Marmelstein on 21/01/2016.
 //  Copyright © 2020 Roy Marmelstein. All rights reserved.

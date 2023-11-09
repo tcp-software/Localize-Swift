@@ -1,6 +1,6 @@
 //
-//  Localize_SwiftTests.swift
-//  Localize_SwiftTests
+//  LocalizeSwiftTests.swift
+//  LocalizeSwiftTests
 //
 //  Created by Roy Marmelstein on 21/01/2016.
 //  Copyright © 2020 Roy Marmelstein. All rights reserved.

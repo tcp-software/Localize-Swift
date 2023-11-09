@@ -1,6 +1,6 @@
 //
 //  String+LocalizeTableName.swift
-//  Localize_Swift
+//  LocalizeSwift
 //
 //  Copyright © 2020 Vitalii Budnik. All rights reserved.
 //
