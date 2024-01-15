@@ -17,7 +17,8 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "LocalizeSwift"),
+            name: "LocalizeSwift",
+            swiftSettings: [.define("LOCALIZE_SWIFT_FRAMEWORK")]),
         .testTarget(
             name: "LocalizeSwiftTests",
             dependencies: ["LocalizeSwift"]),
