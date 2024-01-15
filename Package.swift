@@ -1,9 +1,14 @@
-// swift-tools-version:5.1
+// swift-tools-version: 5.9
+// The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
 let package = Package(
     name: "LocalizeSwift",
+    platforms: [
+        .iOS(.v13),        // Minimum iOS version
+        .watchOS(.v7),     // Minimum WatchOS version
+    ],
     products: [
         .library(
             name: "LocalizeSwift",
@@ -12,8 +17,9 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "LocalizeSwift",
-            path: "Sources")
-    ],
-    swiftLanguageVersions: [.v5]
+            name: "LocalizeSwift"),
+        .testTarget(
+            name: "LocalizeSwiftTests",
+            dependencies: ["LocalizeSwift"]),
+    ]
 )

@@ -8,28 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		3433F2411C518AF7003AE34D /* LocalizeSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3433F2361C518AF7003AE34D /* LocalizeSwift.framework */; };
-		3433F2531C518B38003AE34D /* Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433F2511C518B38003AE34D /* Localize.swift */; };
-		343A6DD11D1529560081AA37 /* Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433F2511C518B38003AE34D /* Localize.swift */; };
-		343A6DD41D1529560081AA37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 344169461C67539300B93D28 /* Foundation.framework */; };
-		343A6DDF1D152B1B0081AA37 /* Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433F2511C518B38003AE34D /* Localize.swift */; };
-		343A6DE11D152B1B0081AA37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 344169461C67539300B93D28 /* Foundation.framework */; };
-		343A6DEC1D152E5A0081AA37 /* Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433F2511C518B38003AE34D /* Localize.swift */; };
-		343A6DEE1D152E5A0081AA37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 344169461C67539300B93D28 /* Foundation.framework */; };
-		344169471C67539300B93D28 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 344169461C67539300B93D28 /* Foundation.framework */; };
-		51C209BA2AFD0F55000D8E99 /* LocalizeSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = 51C209B92AFD0F55000D8E99 /* LocalizeSwift.h */; };
-		51C209BD2AFD0F90000D8E99 /* LocalizeSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C209BC2AFD0F90000D8E99 /* LocalizeSwiftTests.swift */; };
-		68973D661DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */; };
-		68973D671DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */; };
-		68973D681DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */; };
-		68973D691DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */; };
-		68973D6B1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D6A1DA7AB140076F08A /* String+LocalizedBundleTableName.swift */; };
-		68973D6C1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D6A1DA7AB140076F08A /* String+LocalizedBundleTableName.swift */; };
-		68973D6D1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D6A1DA7AB140076F08A /* String+LocalizedBundleTableName.swift */; };
-		68973D6E1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68973D6A1DA7AB140076F08A /* String+LocalizedBundleTableName.swift */; };
-		68A520041DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A520031DA6D5FD00F43D9E /* String+LocalizeTableName.swift */; };
-		68A520051DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A520031DA6D5FD00F43D9E /* String+LocalizeTableName.swift */; };
-		68A520061DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A520031DA6D5FD00F43D9E /* String+LocalizeTableName.swift */; };
-		68A520071DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A520031DA6D5FD00F43D9E /* String+LocalizeTableName.swift */; };
+		51D377CA2B557A10004D9FB7 /* String+LocalizeTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D377C42B557A10004D9FB7 /* String+LocalizeTableName.swift */; };
+		51D377CB2B557A10004D9FB7 /* Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D377C52B557A10004D9FB7 /* Localize.swift */; };
+		51D377CC2B557A10004D9FB7 /* LocalizeSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = 51D377C62B557A10004D9FB7 /* LocalizeSwift.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		51D377CD2B557A10004D9FB7 /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D377C72B557A10004D9FB7 /* String+LocalizeBundle.swift */; };
+		51D377CE2B557A10004D9FB7 /* String+LocalizedBundleTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D377C82B557A10004D9FB7 /* String+LocalizedBundleTableName.swift */; };
+		51D377E22B557A6C004D9FB7 /* LocalizeSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D377DC2B557A53004D9FB7 /* LocalizeSwiftTests.swift */; };
+		51D377E32B557A6E004D9FB7 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 51D377DD2B557A53004D9FB7 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,20 +29,16 @@
 
 /* Begin PBXFileReference section */
 		3433F2361C518AF7003AE34D /* LocalizeSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LocalizeSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3433F23B1C518AF7003AE34D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3433F2401C518AF7003AE34D /* LocalizeSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalizeSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3433F2471C518AF7003AE34D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3433F2511C518B38003AE34D /* Localize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Localize.swift; path = Sources/Localize.swift; sourceTree = SOURCE_ROOT; };
-		343A6DDB1D1529560081AA37 /* LocalizeSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LocalizeSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		343A6DE81D152B1B0081AA37 /* LocalizeSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LocalizeSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		343A6DF51D152E5A0081AA37 /* LocalizeSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LocalizeSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		344169461C67539300B93D28 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		51C209B92AFD0F55000D8E99 /* LocalizeSwift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LocalizeSwift.h; path = Sources/LocalizeSwift.h; sourceTree = SOURCE_ROOT; };
-		51C209BB2AFD0F8F000D8E99 /* LocalizeSwiftTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LocalizeSwiftTests-Bridging-Header.h"; sourceTree = "<group>"; };
-		51C209BC2AFD0F90000D8E99 /* LocalizeSwiftTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalizeSwiftTests.swift; sourceTree = "<group>"; };
-		68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+LocalizeBundle.swift"; path = "Sources/String+LocalizeBundle.swift"; sourceTree = SOURCE_ROOT; };
-		68973D6A1DA7AB140076F08A /* String+LocalizedBundleTableName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+LocalizedBundleTableName.swift"; path = "Sources/String+LocalizedBundleTableName.swift"; sourceTree = SOURCE_ROOT; };
-		68A520031DA6D5FD00F43D9E /* String+LocalizeTableName.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.swift; name = "String+LocalizeTableName.swift"; path = "Sources/String+LocalizeTableName.swift"; sourceTree = SOURCE_ROOT; tabWidth = 4; usesTabs = 0; };
+		51D377C42B557A10004D9FB7 /* String+LocalizeTableName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizeTableName.swift"; sourceTree = "<group>"; };
+		51D377C52B557A10004D9FB7 /* Localize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Localize.swift; sourceTree = "<group>"; };
+		51D377C62B557A10004D9FB7 /* LocalizeSwift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocalizeSwift.h; sourceTree = "<group>"; };
+		51D377C72B557A10004D9FB7 /* String+LocalizeBundle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizeBundle.swift"; sourceTree = "<group>"; };
+		51D377C82B557A10004D9FB7 /* String+LocalizedBundleTableName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizedBundleTableName.swift"; sourceTree = "<group>"; };
+		51D377C92B557A10004D9FB7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51D377DC2B557A53004D9FB7 /* LocalizeSwiftTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalizeSwiftTests.swift; sourceTree = "<group>"; };
+		51D377DD2B557A53004D9FB7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51D377DE2B557A53004D9FB7 /* LocalizeSwiftTests-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LocalizeSwiftTests-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +46,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344169471C67539300B93D28 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,38 +57,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		343A6DD21D1529560081AA37 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				343A6DD41D1529560081AA37 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DE01D152B1B0081AA37 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				343A6DE11D152B1B0081AA37 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DED1D152E5A0081AA37 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				343A6DEE1D152E5A0081AA37 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		3433F22C1C518AF7003AE34D = {
 			isa = PBXGroup;
 			children = (
-				3433F2381C518AF7003AE34D /* LocalizeSwift */,
-				3433F2441C518AF7003AE34D /* LocalizeSwiftTests */,
+				51D377DB2B557A53004D9FB7 /* LocalizeSwiftTests */,
+				51D377C32B557A10004D9FB7 /* LocalizeSwift */,
 				3433F2371C518AF7003AE34D /* Products */,
 			);
 			indentWidth = 4;
@@ -120,35 +76,33 @@
 			children = (
 				3433F2361C518AF7003AE34D /* LocalizeSwift.framework */,
 				3433F2401C518AF7003AE34D /* LocalizeSwiftTests.xctest */,
-				343A6DDB1D1529560081AA37 /* LocalizeSwift.framework */,
-				343A6DE81D152B1B0081AA37 /* LocalizeSwift.framework */,
-				343A6DF51D152E5A0081AA37 /* LocalizeSwift.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3433F2381C518AF7003AE34D /* LocalizeSwift */ = {
+		51D377C32B557A10004D9FB7 /* LocalizeSwift */ = {
 			isa = PBXGroup;
 			children = (
-				51C209B92AFD0F55000D8E99 /* LocalizeSwift.h */,
-				3433F2511C518B38003AE34D /* Localize.swift */,
-				68A520031DA6D5FD00F43D9E /* String+LocalizeTableName.swift */,
-				68973D651DA7AA200076F08A /* String+LocalizeBundle.swift */,
-				68973D6A1DA7AB140076F08A /* String+LocalizedBundleTableName.swift */,
-				3433F23B1C518AF7003AE34D /* Info.plist */,
-				344169461C67539300B93D28 /* Foundation.framework */,
+				51D377C42B557A10004D9FB7 /* String+LocalizeTableName.swift */,
+				51D377C52B557A10004D9FB7 /* Localize.swift */,
+				51D377C62B557A10004D9FB7 /* LocalizeSwift.h */,
+				51D377C72B557A10004D9FB7 /* String+LocalizeBundle.swift */,
+				51D377C82B557A10004D9FB7 /* String+LocalizedBundleTableName.swift */,
+				51D377C92B557A10004D9FB7 /* Info.plist */,
 			);
-			path = LocalizeSwift;
+			name = LocalizeSwift;
+			path = Sources/LocalizeSwift;
 			sourceTree = "<group>";
 		};
-		3433F2441C518AF7003AE34D /* LocalizeSwiftTests */ = {
+		51D377DB2B557A53004D9FB7 /* LocalizeSwiftTests */ = {
 			isa = PBXGroup;
 			children = (
-				51C209BC2AFD0F90000D8E99 /* LocalizeSwiftTests.swift */,
-				3433F2471C518AF7003AE34D /* Info.plist */,
-				51C209BB2AFD0F8F000D8E99 /* LocalizeSwiftTests-Bridging-Header.h */,
+				51D377DC2B557A53004D9FB7 /* LocalizeSwiftTests.swift */,
+				51D377DD2B557A53004D9FB7 /* Info.plist */,
+				51D377DE2B557A53004D9FB7 /* LocalizeSwiftTests-Bridging-Header.h */,
 			);
-			path = LocalizeSwiftTests;
+			name = LocalizeSwiftTests;
+			path = Tests/LocalizeSwiftTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -158,28 +112,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51C209BA2AFD0F55000D8E99 /* LocalizeSwift.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DD51D1529560081AA37 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DE21D152B1B0081AA37 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DEF1D152E5A0081AA37 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				51D377CC2B557A10004D9FB7 /* LocalizeSwift.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,60 +155,6 @@
 			productReference = 3433F2401C518AF7003AE34D /* LocalizeSwiftTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		343A6DCF1D1529560081AA37 /* LocalizeSwift OSX */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 343A6DD81D1529560081AA37 /* Build configuration list for PBXNativeTarget "LocalizeSwift OSX" */;
-			buildPhases = (
-				343A6DD01D1529560081AA37 /* Sources */,
-				343A6DD21D1529560081AA37 /* Frameworks */,
-				343A6DD51D1529560081AA37 /* Headers */,
-				343A6DD71D1529560081AA37 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "LocalizeSwift OSX";
-			productName = Localize_Swift;
-			productReference = 343A6DDB1D1529560081AA37 /* LocalizeSwift.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		343A6DDD1D152B1B0081AA37 /* LocalizeSwift tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 343A6DE51D152B1B0081AA37 /* Build configuration list for PBXNativeTarget "LocalizeSwift tvOS" */;
-			buildPhases = (
-				343A6DDE1D152B1B0081AA37 /* Sources */,
-				343A6DE01D152B1B0081AA37 /* Frameworks */,
-				343A6DE21D152B1B0081AA37 /* Headers */,
-				343A6DE41D152B1B0081AA37 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "LocalizeSwift tvOS";
-			productName = Localize_Swift;
-			productReference = 343A6DE81D152B1B0081AA37 /* LocalizeSwift.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		343A6DEA1D152E5A0081AA37 /* LocalizeSwift watchOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 343A6DF21D152E5A0081AA37 /* Build configuration list for PBXNativeTarget "LocalizeSwift watchOS" */;
-			buildPhases = (
-				343A6DEB1D152E5A0081AA37 /* Sources */,
-				343A6DED1D152E5A0081AA37 /* Frameworks */,
-				343A6DEF1D152E5A0081AA37 /* Headers */,
-				343A6DF11D152E5A0081AA37 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "LocalizeSwift watchOS";
-			productName = Localize_Swift;
-			productReference = 343A6DF51D152E5A0081AA37 /* LocalizeSwift.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -294,9 +173,6 @@
 						CreatedOnToolsVersion = 7.2;
 						LastSwiftMigration = 1500;
 					};
-					343A6DEA1D152E5A0081AA37 = {
-						LastSwiftMigration = 0800;
-					};
 				};
 			};
 			buildConfigurationList = 3433F2301C518AF7003AE34D /* Build configuration list for PBXProject "LocalizeSwift" */;
@@ -314,9 +190,6 @@
 			targets = (
 				3433F2351C518AF7003AE34D /* LocalizeSwift */,
 				3433F23F1C518AF7003AE34D /* LocalizeSwiftTests */,
-				343A6DCF1D1529560081AA37 /* LocalizeSwift OSX */,
-				343A6DDD1D152B1B0081AA37 /* LocalizeSwift tvOS */,
-				343A6DEA1D152E5A0081AA37 /* LocalizeSwift watchOS */,
 			);
 		};
 /* End PBXProject section */
@@ -333,27 +206,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DD71D1529560081AA37 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DE41D152B1B0081AA37 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DF11D152E5A0081AA37 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				51D377E32B557A6E004D9FB7 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,10 +217,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				68973D6B1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */,
-				68973D661DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */,
-				3433F2531C518B38003AE34D /* Localize.swift in Sources */,
-				68A520041DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */,
+				51D377CD2B557A10004D9FB7 /* String+LocalizeBundle.swift in Sources */,
+				51D377CB2B557A10004D9FB7 /* Localize.swift in Sources */,
+				51D377CA2B557A10004D9FB7 /* String+LocalizeTableName.swift in Sources */,
+				51D377CE2B557A10004D9FB7 /* String+LocalizedBundleTableName.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -375,40 +228,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51C209BD2AFD0F90000D8E99 /* LocalizeSwiftTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DD01D1529560081AA37 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				68973D6C1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */,
-				68973D671DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */,
-				343A6DD11D1529560081AA37 /* Localize.swift in Sources */,
-				68A520051DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DDE1D152B1B0081AA37 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				68973D6D1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */,
-				68973D681DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */,
-				343A6DDF1D152B1B0081AA37 /* Localize.swift in Sources */,
-				68A520061DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		343A6DEB1D152E5A0081AA37 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				68973D6E1DA7AB140076F08A /* String+LocalizedBundleTableName.swift in Sources */,
-				68973D691DA7AA200076F08A /* String+LocalizeBundle.swift in Sources */,
-				343A6DEC1D152E5A0081AA37 /* Localize.swift in Sources */,
-				68A520071DA6D5FD00F43D9E /* String+LocalizeTableName.swift in Sources */,
+				51D377E22B557A6C004D9FB7 /* LocalizeSwiftTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -549,16 +369,20 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 14;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = LocalizeSwift/Info.plist;
+				INFOPLIST_FILE = Sources/LocalizeSwift/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator watchos watchsimulator";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,4";
+				WATCHOS_DEPLOYMENT_TARGET = 7.0;
 			};
 			name = Debug;
 		};
@@ -572,14 +396,18 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 14;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = LocalizeSwift/Info.plist;
+				INFOPLIST_FILE = Sources/LocalizeSwift/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator watchos watchsimulator";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,4";
+				WATCHOS_DEPLOYMENT_TARGET = 7.0;
 			};
 			name = Release;
 		};
@@ -587,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
-				INFOPLIST_FILE = LocalizeSwiftTests/Info.plist;
+				INFOPLIST_FILE = Tests/LocalizeSwiftTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-SwiftTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -601,158 +429,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
-				INFOPLIST_FILE = LocalizeSwiftTests/Info.plist;
+				INFOPLIST_FILE = Tests/LocalizeSwiftTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-SwiftTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "LocalizeSwiftTests/LocalizeSwiftTests-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-			};
-			name = Release;
-		};
-		343A6DD91D1529560081AA37 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 14;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = LocalizeSwift/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
-				PRODUCT_NAME = LocalizeSwift;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-			};
-			name = Debug;
-		};
-		343A6DDA1D1529560081AA37 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 14;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = LocalizeSwift/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
-				PRODUCT_NAME = LocalizeSwift;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 5.0;
-			};
-			name = Release;
-		};
-		343A6DE61D152B1B0081AA37 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 14;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/LocalizeSwift/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
-				PRODUCT_NAME = LocalizeSwift;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-			};
-			name = Debug;
-		};
-		343A6DE71D152B1B0081AA37 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 14;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/LocalizeSwift/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
-				PRODUCT_NAME = LocalizeSwift;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-			};
-			name = Release;
-		};
-		343A6DF31D152E5A0081AA37 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 14;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/LocalizeSwift/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
-				PRODUCT_NAME = LocalizeSwift;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 4.0;
-			};
-			name = Debug;
-		};
-		343A6DF41D152E5A0081AA37 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 14;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/LocalizeSwift/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.roymarmelstein.Localize-Swift";
-				PRODUCT_NAME = LocalizeSwift;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 4.0;
 			};
 			name = Release;
 		};
@@ -782,33 +464,6 @@
 			buildConfigurations = (
 				3433F24E1C518AF7003AE34D /* Debug */,
 				3433F24F1C518AF7003AE34D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		343A6DD81D1529560081AA37 /* Build configuration list for PBXNativeTarget "LocalizeSwift OSX" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				343A6DD91D1529560081AA37 /* Debug */,
-				343A6DDA1D1529560081AA37 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		343A6DE51D152B1B0081AA37 /* Build configuration list for PBXNativeTarget "LocalizeSwift tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				343A6DE61D152B1B0081AA37 /* Debug */,
-				343A6DE71D152B1B0081AA37 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		343A6DF21D152E5A0081AA37 /* Build configuration list for PBXNativeTarget "LocalizeSwift watchOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				343A6DF31D152E5A0081AA37 /* Debug */,
-				343A6DF41D152E5A0081AA37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
