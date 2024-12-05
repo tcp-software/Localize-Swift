@@ -21,7 +21,7 @@ Import Localize at the top of each Swift file that will contain localized text.
 
 If CocoaPods -
 ```swift
-import Localize_Swift
+import LocalizeSwift
 ```
 
 Add `.localized()` following any `String` object you want translated:

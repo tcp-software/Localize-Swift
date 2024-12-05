@@ -18,10 +18,10 @@ trap trap_handler INT TERM EXIT
 MODE="$1"
 
 if [ "$MODE" = "build" ]; then
-    echo "Building Localize-Swift."
+    echo "Building LocalizeSwift."
     xcodebuild \
-        -project Localize_Swift.xcodeproj \
-        -scheme Localize_Swift \
+        -project LocalizeSwift.xcodeproj \
+        -scheme LocalizeSwift \
         -sdk "$SDK" \
         -destination "$PLATFORM" \
         build

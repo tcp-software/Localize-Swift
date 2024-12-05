@@ -1,6 +1,6 @@
 //
 //  String+LocalizeBundle.swift
-//  Localize_Swift
+//  LocalizeSwift
 //
 //  Copyright © 2020 Roy Marmelstein. All rights reserved.
 //

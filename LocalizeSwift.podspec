@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "Localize-Swift"
+  s.name             = "LocalizeSwift"
   s.version          = "3.2.0"
   s.summary          = "Swift-friendly localization and i18n syntax with in-app language switching."
   s.description      = <<-DESC
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'UIKit' do |ui|
-    ui.dependency 'Localize-Swift/LocalizeSwiftCore'
+    ui.dependency 'LocalizeSwift/LocalizeSwiftCore'
     ui.ios.deployment_target = '9.0'
     ui.source_files = 'Sources/UI/'
   end
